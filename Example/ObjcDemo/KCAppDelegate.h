@@ -6,7 +6,7 @@
 //  Copyright (c) 2020 reino-wang. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @interface KCAppDelegate : UIResponder <UIApplicationDelegate>
 

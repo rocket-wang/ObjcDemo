@@ -1,0 +1,16 @@
+PODS:
+  - ObjcDemo (0.1.0)
+
+DEPENDENCIES:
+  - ObjcDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ObjcDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjcDemo: 1af4e7cd03ea842e7c99eab72a7efd887004d305
+
+PODFILE CHECKSUM: 8aaa3c7300beb5598dd12c70d37a01e6b853cb96
+
+COCOAPODS: 1.9.1

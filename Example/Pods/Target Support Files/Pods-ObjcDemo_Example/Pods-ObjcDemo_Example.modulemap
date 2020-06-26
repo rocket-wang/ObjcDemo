@@ -1,0 +1,6 @@
+framework module Pods_ObjcDemo_Example {
+  umbrella header "Pods-ObjcDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
